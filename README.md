@@ -46,4 +46,32 @@ frontend
 │   ├── App.jsx
 │   └── main.jsx
 
-help me with frontend ui with avatar in the bottom right of the screen with a text cloud whenever speaking 
+help me with frontend ui with avatar in the bottom right of the screen with a text cloud whenever speaking 4
+
+
+
+backend :
+
+backend
+│
+├── config
+│   └── apiKeys.js
+│
+├── controllers
+│   ├── stockController.js
+│   └── gameController.js
+│
+├── services
+│   ├── stockService.js
+│   └── gameEngine.js
+│
+├── routes
+│   ├── stockRoutes.js
+│   └── gameRoutes.js
+│
+├── utils
+│   └── candleUtils.js
+│
+├── server.js
+├── package.json
+└── .env
